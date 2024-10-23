@@ -1,4 +1,5 @@
 """
+!NOTE this is only a WIP script to store intermediate helpers without thorough review
 Differentiable KAK decomposition for two-qubit unitaries.
 Modified to ensure gradient computation works with autograd.
 
